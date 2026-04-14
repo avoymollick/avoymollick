@@ -1,3 +1,4 @@
+![Banner]([https://your-image-link.png](https://github.com/avoymollick/avoymollick/blob/main/githubbanner.png))
 # Hi, I'm Avoy Mollick 👋
 
 🚀 AI-Focused Software Engineer  
