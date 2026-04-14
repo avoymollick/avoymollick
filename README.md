@@ -1,8 +1,9 @@
 ![Banner](https://raw.githubusercontent.com/avoymollick/avoymollick/main/githubbanner.png)
+
 # Hi, I'm Avoy Mollick 👋
 
-🚀 AI-Focused Software Engineer  
-🎓 CSE Student (CGPA ~3.99)  
+🚀 AI Engineer | Machine Learning | NLP | Computer Vision  
+🎓 CSE Student (CGPA ~3.99)
 
 ---
 
@@ -11,25 +12,29 @@ I am a Computer Science & Engineering student with strong foundations in softwar
 
 ---
 
-## 🔧 Tech Stack
-- 💻 Languages: Python, Java, C, C++, JavaScript, SQL
-- 🤖 AI/ML: Machine Learning, NLP, Computer Vision
-- 🛠 Tools: Firebase, MySQL, Git, GitHub
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Java-red?logo=java)
+![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-blue?logo=mysql)
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
 
 ---
 
-## 📌 Projects
-- 🔹 CRACK – Digital Marketplace Platform  
-- 🔹 AIUB Fitness Zone  
-- 🔹 StudentDash 2.0  
+## 📊 GitHub Stats
+![Avoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=avoymollick&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avoymollick&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Portfolio
-👉 https://avoymollick.me
+## 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=avoymollick&theme=onedark)
 
 ---
 
 ## 📫 Contact
 📧 avoymollick.bd@gmail.com  
-🔗 https://linkedin.com/in/avoymollick
+🔗 https://linkedin.com/in/avoy-mollick  
+🌐 https://avoymollick.me
