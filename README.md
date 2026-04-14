@@ -23,14 +23,16 @@ I am a Computer Science & Engineering student with strong foundations in softwar
 ---
 
 ## 📊 GitHub Stats
-![Avoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=avoymollick&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avoymollick&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avoymollick&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=avoymollick&theme=onedark)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=avoymollick&theme=onedark)
 
 ---
 
