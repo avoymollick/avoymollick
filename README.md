@@ -24,9 +24,9 @@ I am a Computer Science & Engineering student with strong foundations in softwar
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avoymollick&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=avoymollick&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avoymollick&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avoymollick&layout=compact&theme=tokyonight" />
 
 ---
 
