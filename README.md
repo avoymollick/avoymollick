@@ -31,4 +31,4 @@ I am a Computer Science & Engineering student with strong foundations in softwar
 
 ## 📫 Contact
 📧 avoymollick.bd@gmail.com  
-🔗 https://linkedin.com/in/avoy-mollick
+🔗 https://linkedin.com/in/avoymollick
